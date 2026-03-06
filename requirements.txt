@@ -1,0 +1,2 @@
+# Requires python-telegram-bot 20.x or later (uses the async Application API)
+python-telegram-bot

@@ -1,0 +1,18 @@
+# Python virtual environment — contains installed packages, not source code
+venv/
+
+# User data — contains personal timezone registrations, not for version control
+timezone_data.json
+
+# Environment variables file — would contain your BOT_TOKEN secret
+.env
+
+# Python bytecode cache — auto-generated, not needed in repo
+__pycache__/
+*.pyc
+
+# macOS metadata files — created automatically by macOS Finder
+.DS_Store
+
+# Claude Code session data
+.claude/
