@@ -103,10 +103,6 @@ Top-level keys are chat IDs. Within each chat, keys are either Telegram user IDs
 - **[python-telegram-bot](https://python-telegram-bot.org/) 20.x+** — async Telegram Bot API wrapper
 - **zoneinfo** — IANA timezone support (Python 3.9+ standard library)
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
 ## License
 
 MIT
